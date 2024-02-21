@@ -1,5 +1,20 @@
+import java.io.File;
+import java.util.Scanner;
+
+
 public class Main {
+
+    String gigg;
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Scanner scan = new Scanner(System.in);
+        String gigg = scan.nextLine();
+
+
+        try{
+
+
+        } catch (Exception e){
+
+        }
     }
 }
